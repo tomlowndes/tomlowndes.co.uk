@@ -1,0 +1,96 @@
+---
+import Container from "@components/Container.astro";
+import PageLayout from "@layouts/PageLayout.astro";
+import Link from "@components/Link.astro";
+
+import { SITE, NOW, SOCIALS } from "@consts";
+---
+
+<PageLayout title={NOW.TITLE} description={NOW.DESCRIPTION}>
+    <Container>
+      <h4 class="animate font-semibold text-black dark:text-white">
+        Here's what keeps me busy at the moment. <Link href="https://nownownow.com/about">
+          what?
+        </Link>
+      </h4>
+      <div class="space-y-16">
+        <section>
+          <article class="space-y-4">
+            <p class="animate">
+              Spring is my favourite time of the year by far. The days are getting warmer, the nights are getting longer and there just seems like more time in the day to get jobs done. 
+              My list of jobs never seems to dwindle, from side projects like starting this new website, to personal design projects and to pottering around my house and garden.</p>
+            <p class="animate">
+              We bought our house four years ago, and it has been a financial burden or as my girlfriend calls it "the money pit". 
+              But we wouldn't change owning a house for anything, we both feel so lucky to have something to call our own, my current 
+              home project are the garden and my office finally getting around to installing ethernet to hopefully improve my speeds upstairs.
+            </p>
+            <p class="animate">
+              In a few weeks time (end of may) it will be my first abroad holiday if over 6 years, pool, beer, food and friends for a week in Spain!
+
+              Life's good.
+            </p>
+          </article>
+        </section>
+  
+        <section class="animate space-y-4">
+          <h5 class="font-semibold text-black dark:text-white">
+            Side Projects
+          </h5>
+          <article>
+            <h5 class="font-semibold text-black dark:text-white">
+            Project folder template 
+            </h5>  
+            <p><link href="www,github.com/camshand/project-creator-3000"> Geeking out over silly command-line tools</a></p>
+            <p>
+            I came across a youtuber by the name of <link href="https://www.youtube.com/camshand">Cam Shand</a>, who has just built a cool custom desk. 
+            Whilst watching these videos he was explaining his stream deck setup and showed off a cool script, that opens a powershell 
+            window asks for the folder name then creates that custom folder based on a template and re-names files inside.  
+            </p>
+            <p>  
+            I'm adapting the script for my two Project folders, one for Design and the other for Video. So with one push on the Stream Deck, 
+            it will launch a PowerShell ask for the name and create the appropriate folder inside my project folder.
+            </p>
+          </article>
+          
+          <article>
+            <h5 class="font-semibold text-black dark:text-white">Website Overhaul</h5>
+
+            I am trying to build a new website using Astro and Github, fortunately so many talented coders have done this before 
+            so we can just steal there code and adapt it to our design preferences.   
+          </p>
+          </article>
+          
+          <article>
+            <p>
+              <h5 class="font-semibold text-black dark:text-white">The books I'm reading</h5>
+            
+
+            The Devil's Hand by Jack Carr
+
+            After finishing the first three books of James Reece's adventures. I can't wait to get into the next book. 
+            I got into this series of books after watching the amazon adaptation staring Chris Prat as James Reece and have to 
+            say it was an amazing adaptation of the books (even through they change a bit.)  
+
+            <link href="https://www.officialjackcarr.com/books/">more info</a></p>
+          </article>
+          
+          
+          <ul class="flex flex-wrap gap-2">
+            {SOCIALS.map(SOCIAL => (
+              <li class="flex gap-x-2 text-nowrap">
+                <Link href={SOCIAL.HREF} external aria-label={`${SITE.NAME} on ${SOCIAL.NAME}`}>
+                  {SOCIAL.NAME}
+                </Link>
+                {"/"}
+              </li>
+            ))}
+            <li class="line-clamp-1">
+              <Link href={`mailto:${SITE.EMAIL}`} aria-label={`Email ${SITE.NAME}`}>
+                {SITE.EMAIL}
+              </Link>
+            </li>
+          </ul>
+        </section>
+      </div>
+    </Container>
+  </PageLayout>
