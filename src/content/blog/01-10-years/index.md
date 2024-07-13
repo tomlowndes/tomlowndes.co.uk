@@ -1,7 +1,7 @@
 ---
 title: "10+ Years of designing!"
 description: "Reflecting on my time as a Creative Designer."
-date: "08/05/2024"
+date: "05/08/2024"
 ---
 
 In a few weeks, I will celebrate my third anniversary at Dove Technology—a job I was fortunate to land. In early 2019, after working at Busy Bees Nurseries as an in-house creative designer for just over seven years, I was unexpectedly informed that I, along with two other colleagues from the marketing team, were being let go.

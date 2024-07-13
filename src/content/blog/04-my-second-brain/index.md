@@ -1,7 +1,7 @@
 ---
 title: "My Second Brain - Obsidian"
 description: "Using Obsidian to store information in an easily accessible format."
-date: "18/06/2024"
+date: "06/18/2024"
 ---
 
 # Unlocking Imagination: Leveraging Obsidian as Your Digital Companion in the World of Design

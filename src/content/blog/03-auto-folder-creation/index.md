@@ -1,7 +1,7 @@
 ---
 title: "Supercharge Your Creative Workflow"
 description: "If you're anything like me, you know that keeping your projects organized is crucial to maintaining your sanity and productivity."
-date: "10/06/2024"
+date: "06/10/2024"
 ---
 
 In a few weeks, I will celebrate my third anniversary at Dove Technology—a job I was fortunate to land. In early 2019, after working at Busy Bees Nurseries as an in-house creative designer for just over seven years, I was unexpectedly informed that I, along with two other colleagues from the marketing team, were being let go.

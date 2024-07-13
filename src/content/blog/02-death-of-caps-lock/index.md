@@ -1,7 +1,7 @@
 ---
 title: "The Death of Caps Lock, Embracing the Hyper Key"
 description: "I hate Caps lock, it does one thing and one thing only, this needs to change."
-date: "14/05/2024"
+date: "05/14/2024"
 ---
 
 In the fast-paced world of design and technology, every keystroke counts. As a designer, I find the Caps Lock key to be largely redundant in my daily workflow. Instead, I rely heavily on shortcuts in programs like DaVinci Resolve, InDesign, and Illustrator. To streamline my productivity, I use an Elgato Stream Deck for launching applications and accessing frequently used shortcuts and automations.
