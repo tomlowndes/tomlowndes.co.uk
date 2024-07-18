@@ -36,7 +36,7 @@ export const NOW: Metadata = {
 export const SOCIALS: Socials = [
   { 
     NAME: "mastodon",
-    REL: "me"  HREF: "https://defcon.social/@tomlowndes">
+    HREF: "https://defcon.social/@tomlowndes",
   },
   { 
     NAME: "github",
