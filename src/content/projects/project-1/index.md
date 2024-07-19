@@ -1,6 +1,6 @@
 ---
 title: "Dove Technology - Website"
-description: "Portfolio and blog build with astro."
+description: "Building a new corporate website"
 date: "Mar 18 2024"
 demoURL: "https://dovetechnology.com"
 draft: true
