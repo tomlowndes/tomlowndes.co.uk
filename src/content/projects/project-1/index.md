@@ -2,7 +2,7 @@
 title: "Dove Technology - Website"
 description: "Building a new corporate website"
 date: "Mar 18 2024"
-demoURL: "https://dovetechnology.com"
+URL: "https://dovetechnology.com"
 ---
 
 ## Building a new corporate website
