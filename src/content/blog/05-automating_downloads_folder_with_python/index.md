@@ -9,27 +9,27 @@ Managing files in your Downloads folder can quickly become a chore, especially i
 ### Project Overview
 The goal of this project is to develop a Python script that:
 
-Monitors the Downloads folder for new files.
-Identifies the file type or other properties of each file.
-Moves the file to a specific folder based on its type or other criteria.
+- Monitors the Downloads folder for new files.
+- Identifies the file type or other properties of each file.
+- Moves the file to a specific folder based on its type or other criteria.
 
 ### Why Automate?
-Efficiency: Save time by automating repetitive tasks.
-Organization: Keep your files systematically arranged.
-Focus: Spend less time managing files and more time on important tasks.
+- Efficiency: Save time by automating repetitive tasks.
+- Organization: Keep your files systematically arranged.
+- Focus: Spend less time managing files and more time on important tasks.
 
 ### Requirements
 To build this project, you'll need:
 
-Python 3.x
-os and shutil libraries (standard libraries in Python)
-watchdog library (for monitoring the Downloads folder)
+- Python 3.x
+- os and shutil libraries (standard libraries in Python)
+- watchdog library (for monitoring the Downloads folder)
 You can install the watchdog library using pip:
 
-bash
-Copy code
+```bash
 pip install watchdog
-Script Breakdown
+```
+
 Here's a step-by-step guide to creating the script:
 
 ### Step 1: Import Necessary Libraries
@@ -44,7 +44,6 @@ import os
 ### Step 2: Define the File Organization Logic
 
 Create a function to determine the destination folder based on the file type:
-
 
 ```python
 def get_destination_folder(filename):
