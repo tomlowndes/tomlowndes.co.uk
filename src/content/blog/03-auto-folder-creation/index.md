@@ -4,14 +4,55 @@ description: "If you're anything like me, you know that keeping your projects or
 date: "06/10/2024"
 ---
 
-In a few weeks, I will celebrate my third anniversary at Dove Technology—a job I was fortunate to land. In early 2019, after working at Busy Bees Nurseries as an in-house creative designer for just over seven years, I was unexpectedly informed that I, along with two other colleagues from the marketing team, were being let go.
+# Auto Folder Creator
 
-The initial shock and panic about how I would pay the bills were overwhelming. However, I soon received an opportunity to work in the warehouse at Dove Technology. It was a physically demanding job, and at over 30 years old, it wasn’t exactly within my skill set. But with bills to pay, any job was better than none.
+If you're anything like me, you know that keeping your projects organized is crucial to maintaining your sanity and productivity. But let's face it—manually creating folders for every new project can be a real drag. My new solution that will hopefully streamline my workflow and ensure a uniform filing structure: a simple yet powerful Python script.
 
-Although decanting roofing adhesive is a rewarding task and working for a family-run business offered a refreshing change of pace, I knew my strengths lay elsewhere. After a year, I approached my bosses and expressed my desire to return to design work. Upon explaining my skills, I was offered the chance to take over in-house printing, design product labels, create internal and external documents, and manage the website.
+## The Magic of Automation
 
-Throughout my career, I have worked in agency settings, freelanced, and held in-house positions. I’ve handled print and digital projects, dabbled in photography, filmed and edited videos, and created email campaigns and websites. Every day and every project is a learning experience. If I lack knowledge in a certain area, I seek out resources, people, or courses, such as those on Skillshare, to bridge the gap.
+When starting a new design, video, or idea project. Instead of wasting time setting up the necessary folders, with a simple keyboard shortcut Caps lock + d. To see how and why I got rid of my caps lock key and changed it into a Hyper Key, see [The Death of Caps Lock, Embracing the Hyper Key](/blog/The-death-of-caps-lock/)
 
-My last two jobs have both been in-house positions. I spent seven years at Busy Bees Nurseries, where I had the privilege of working with two amazing bosses and several colleagues who significantly enhanced my skill set. For the past three years, I have continued to develop my skills at Dove Technology, working with a smaller but equally dedicated team.
+A terminal window will launch and walk you through the folder creation script.
 
-Currently, I am focused on becoming a more well-rounded designer. I am refining processes and creating templates to ensure that all my work meets a higher standard. To stay organized, I use Notion to track personal projects and Monday.com for work-related tasks. By 2025, my goal is to be more organized with my files, track project progress and time spent, and identify areas for skill improvement.
+## How the Script Works
+
+When you run the script, it prompts you to select the type of project you're working on. Here's a quick rundown of the options:
+
+![Auto Folder launched on terminal](/assets/img/uploads/Auto-folder-terminal.png)
+
+After making a choice, it asks me to enter the project name. The script then takes over, creating a main project folder in a pre-defined directory based on the project type.
+
+Inside this main folder, the script generates a set of subfolders tailored to the specific needs of the project type.
+
+- **Design Projects:**
+  - Copy
+  - Export
+  - Image
+  - Project Files
+  - A Word document named `<project_name>_brief.docx`
+
+  - **Work Projects:**
+    - Copy
+    - Export
+    - Image
+    - Project Files
+    - A Word document named `<project_name>_brief.docx`
+
+- **Video Projects:**
+  - Audio
+  - Footage
+  - Image
+  - Project Files
+  - Export
+  - A Word document named `<project_name>_brief.docx`
+
+- **Idea Projects:**
+  - Image
+  - Project Files
+  - A Word document named `<project_name>_brief.docx`
+
+By automating the creation of your project folders, this script frees me up to focus on the creative aspects of your work. No more fiddling around with folder structures or worrying about forgetting to create an important subfolder. Everything is set up and ready to go in seconds, ensuring I can hit the ground running.
+
+One of the best features of this script is its flexibility. Need additional folders for a particular project type? Want to include different file types or templates? No problem. You can easily customize the script to suit your unique workflow needs. The script is a foundation you can build upon, adapting it to whatever requirements you have.
+
+If you want to check out the source files they are available here - [Github/Auto-folder-creation](https://github.com/tomlowndes/Auto-folder-creation).

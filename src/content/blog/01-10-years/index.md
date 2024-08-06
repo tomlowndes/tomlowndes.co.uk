@@ -5,6 +5,7 @@ date: "05/08/2024"
 ---
 
 
+# 10+ Years of designing!
 
 In a few weeks, I will celebrate my third anniversary at Dove Technology—a job I was fortunate to land. In early 2019, after working at Busy Bees Nurseries as an in-house creative designer for just over seven years, I was unexpectedly informed that I, along with two other colleagues from the marketing team, were being let go.
 
