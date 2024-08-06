@@ -34,16 +34,19 @@ Here's a step-by-step guide to creating the script:
 
 ### Step 1: Import Necessary Libraries
 
-'''
+```python
 import os
     import shutil
     from watchdog.observers import Observer
     from watchdog.events import FileSystemEventHandler
-    Step 2: Define the File Organization Logic
-    Create a function to determine the destination folder based on the file type:
-'''
+```
 
-'''
+### Step 2: Define the File Organization Logic
+
+Create a function to determine the destination folder based on the file type:
+
+
+```python
 def get_destination_folder(filename):
     extension = filename.split('.')[-1].lower()
     if extension in ['jpg', 'jpeg', 'png', 'gif']:
@@ -56,13 +59,14 @@ def get_destination_folder(filename):
         return 'Videos'
     else:
         return 'Others'
-'''
+```
 
 ### Step 3: Create Event Handler Class
 
 Define a class that inherits from FileSystemEventHandler to handle file creation events:
 
-'''
+
+```python
 class FileHandler(FileSystemEventHandler):
     def on_created(self, event):
         if not event.is_directory:
@@ -76,13 +80,15 @@ class FileHandler(FileSystemEventHandler):
                 
             shutil.move(file_path, os.path.join(destination_path, filename))
             print(f'Moved {filename} to {destination_folder}')
-'''
 
-Step 4: Set Up the Observer
+```
+
+### Step 4: Set Up the Observer
 
 Set up the observer to watch the Downloads folder:
 
-'''
+
+```python
 if __name__ == "__main__":
     downloads_path = os.path.join(os.path.expanduser("~"), "Downloads")
     event_handler = FileHandler()
@@ -96,14 +102,17 @@ if __name__ == "__main__":
     except KeyboardInterrupt:
         observer.stop()
     observer.join()
-'''
+
+```
 
 ### Running the Script
 To run the script, save it as file_organizer.py and execute it using Python:
 
-'''
+```bash
+
 python file_organizer.py
-'''
+
+```
 
 The script will now monitor your Downloads folder and automatically move files to the appropriate subfolders.
 
