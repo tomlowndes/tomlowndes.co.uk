@@ -4,8 +4,6 @@ description: "I hate Caps lock, it does one thing and one thing only, this needs
 date: "05/14/2024"
 ---
 
-# The Problem with Caps Lock
-
 In the fast-paced world of design and technology, every keystroke counts. As a designer, I find the Caps Lock key to be largely redundant in my daily workflow. Instead, I rely heavily on shortcuts in programs like DaVinci Resolve, InDesign, and Illustrator. To streamline my productivity, I use an Elgato Stream Deck for launching applications and accessing frequently used shortcuts and automations.
 
 The Caps Lock key, originally designed for typewriters to capitalize entire words or sentences, has become obsolete in modern computing. Most people use Shift for capitalization, leaving Caps Lock largely unused. This prime real estate on our keyboards could be put to better use.

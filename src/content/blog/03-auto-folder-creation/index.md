@@ -4,8 +4,6 @@ description: "If you're anything like me, you know that keeping your projects or
 date: "06/10/2024"
 ---
 
-# Auto Folder Creator
-
 If you're anything like me, you know that keeping your projects organized is crucial to maintaining your sanity and productivity. But let's face it—manually creating folders for every new project can be a real drag. My new solution that will hopefully streamline my workflow and ensure a uniform filing structure: a simple yet powerful Python script.
 
 ## The Magic of Automation
