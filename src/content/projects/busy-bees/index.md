@@ -10,7 +10,7 @@ URL: ""
 
 ![Dove Website](/astro-sphere.jpg)
 
-In the last year, I've had the amazing opportunity to develop the new corporate website for Dove Technology. This extensive project allowed me to explore various aspects of web development and design, culminating in a website that is easy to use and navigate. Using a combination of WordPress and Elementor Pro, we crafted a website that not only meets the company needs, but has driven an uptake in visits and conversions. More of the work can be seen here on my behance page ![Dove Website](https://www.behance.net/gallery/175320829/Dove-Tecnology-Website)
+In the last year, I've had the amazing opportunity to develop the new corporate website for Dove Technology. This extensive project allowed me to explore various aspects of web development and design, culminating in a website that is easy to use and navigate. Using a combination of WordPress and Elementor Pro, we crafted a website that not only meets the company needs, but has driven an uptake in visits and conversions. More of the work can be seen here on my behance page [Dove Website](https://www.behance.net/gallery/175320829/Dove-Tecnology-Website)
 
 ![Dove product page](/dove_product_page.png)
 
