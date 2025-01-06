@@ -6,20 +6,13 @@ URL: ""
 
 ---
 
-## Building a new corporate website
+During my time at Busy Bees Nurseries, I worked as a graphic designer and videographer, where I was part of a small, agile team dedicated to creating impactful visual content. My role encompassed a broad range of responsibilities, allowing me to make meaningful contributions across several key areas of design and communication.
 
-![Dove Website](/astro-sphere.jpg)
+One of my primary focuses was brand development. I worked on crafting and evolving the visual identity of Busy Bees, ensuring consistency and resonance across all touchpoints. Whether it was designing for digital platforms or creating print collateral, I strived to maintain a cohesive brand image that connected with our audience.
 
-In the last year, I've had the amazing opportunity to develop the new corporate website for Dove Technology. This extensive project allowed me to explore various aspects of web development and design, culminating in a website that is easy to use and navigate. Using a combination of WordPress and Elementor Pro, we crafted a website that not only meets the company needs, but has driven an uptake in visits and conversions. More of the work can be seen here on my behance page [Dove Website](https://www.behance.net/gallery/175320829/Dove-Tecnology-Website)
+In addition to branding, I contributed to business communications by designing engaging materials that effectively conveyed our key messages. From corporate presentations to marketing campaigns, my designs were tailored to align with strategic goals and enhance the clarity of our communication.
 
-![Dove product page](/dove_product_page.png)
+Multimedia production was another significant aspect of my role. I created high-quality video content and photography that showcased the values and offerings of Busy Bees. These projects often required a hands-on approach, from storyboarding and shooting to editing and post-production, ensuring a polished final product.
 
-**Design:** The visual aspects were thoughtfully designed to reflect Dove Technology's brand identity. The sleek, modern design highlights the company's advanced solutions, creating an appealing and professional online image.
+Working in a small team gave me the opportunity to collaborate closely with colleagues, manage multiple projects simultaneously, and adapt to the dynamic needs of the organization. This experience not only honed my technical skills but also deepened my understanding of effective communication and creative problem-solving.
 
-**Coding:** Utilizing Wordpess and Elementor, I developed a strong and responsive website that is optimized for performance across all devices. This ensures a smooth and consistent experience for users, whether they're viewing the site on a computer, tablet, or phone.
-
-**Product Photography:** Top-notch product images were taken to showcase Dove Technology's products in the best light.
-
-**Video Content:** Engaging and informative videos were created to provide visitors with a dynamic way to learn more about Dove Technology's products and services. These videos introduce an interactive element to the website, making the information more accessible and engaging.
-
-This project has a good learning experiance and I'm proud of the outcome. 
