@@ -1,6 +1,6 @@
 ---
-title: "Level Up Your Life: Building Toolboxes in Obsidian for a Smoother, More Creative You
-description: "If you’re anything like me, your brain is a whirlwind of ideas, projects, and that nagging feeling that you're forgetting something *important*."
+title: "Level Up Your Life: Building Toolboxes in Obsidian for a Smoother, More Creative You"
+description: "If you’re anything like me, your brain is a whirlwind of ideas, projects, and that nagging feeling that you're forgetting something *important*"
 date: "10/01/2025"
 draft: false
 ---
