@@ -5,8 +5,6 @@ date: "10/01/2025"
 draft: false
 ---
 
-# Level Up Your Life: Building Toolboxes in Obsidian for a Smoother, More Creative You
-
  If you’re anything like me, your brain is a whirlwind of ideas, projects, and that nagging feeling that you're forgetting something *important*. Sound familiar? Well, I've stumbled upon a game-changing technique that's helping me bring order to my chaos – and it’s all thanks to the power of “toolboxes.”
 
 Inspired by the brilliant folks at Hacking Your ADHD (seriously, check out their podcast!), I’ve been experimenting with creating personalized "manuals" for different aspects of my life. Forget generic self-help guides; these are hyper-specific, action-oriented guides designed by *me*, for *me*. And as a bonus, I'm keeping it all organized in my trusty Obsidian vault.
