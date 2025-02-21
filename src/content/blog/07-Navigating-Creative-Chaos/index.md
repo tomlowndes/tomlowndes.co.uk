@@ -1,62 +1,53 @@
 ---
-title: "Navigating Creative Chaos: A Framework for Design Projects When You're Neurodivergent"
+title: "Navigating Creative Chaos: The Solo Navigator System"
 description: "As many of you know, I'm a creative designer, and I'm also someone who navigates the world with both ADHD and autism."
 date: "10/01/2025"
 draft: true
 ---
 
-# Navigating Creative Chaos: A Framework for Design Projects When You're Neurodivergent
+I’m a creative designer, and I also navigate the world with both ADHD and autism. It’s a fantastic combo—like having a high-speed processor with a dozen tabs open at all times. It gives me a unique way of seeing design, noticing details others might miss, and making unexpected creative connections. But let’s be real: it can also make projects feel like trying to herd cats.
 
-As many of you know, I'm a creative designer, and I'm also someone who navigates the world with both ADHD and autism. It’s a fantastic combo – in the sense that it provides a unique lens through which I approach design, but also, let’s be honest, it can make projects feel like trying to herd cats sometimes.
+If you’re in the same boat, you know the struggle. One minute, you’re laser-focused, completely immersed in a design. The next, you’re deep-diving into a random Wikipedia rabbit hole about medieval typography. The ability to hyper-focus is a gift—until it isn’t. And deadlines? They’re more like… suggestions, right?
 
-If you’re in the same boat, you’ll understand the struggle. The bursts of intense focus, the sudden shifts in interest, the hyper-awareness of details – all these wonderful aspects of our neurodivergence can be both superpowers and… well, challenges, when it comes to sticking to a project and getting it done.
+So, how do we harness this creative chaos without getting lost in the weeds? How do we actually *finish* a project—design or otherwise—instead of getting distracted by 15 new ones?
 
-So, how do we harness our creative energy without getting lost in the weeds? How do we actually *finish* a design project?
+Over the years, I’ve tested different strategies—some worked, some flopped spectacularly. Here’s one that’s stuck: **The Solo Navigator System.**
 
-Over the years, I've experimented with different approaches, and I've finally landed on a framework that works pretty well for me. I’m sharing it today in the hopes that it can be helpful for others who think and create a bit differently. 
+### **The Solo Navigator System**
+*(A mash-up of brutal focus, external accountability, and just enough structure to keep you from imploding.)*
 
-**My Framework: The "S-P-A-C-E" System**
+Some productivity systems feel like they were built for robots, not creative humans with a brain that runs on high-octane chaos. The Solo Navigator System is for those of us who need *just enough* structure to avoid spiraling, but not so much that we feel trapped in an endless cycle of checklists and corporate nonsense.
 
-I call it the S-P-A-C-E system, and it breaks down like this:
+Here’s how it works:
 
-*   **S - Scope & Structure:**
-    *   **Define the Goal:** What are you trying to achieve with this design? Be clear. It might seem obvious, but it's essential. Write it down.
-    *   **Set Boundaries:** This is HUGE for us. What are the essential elements? What’s out of scope? Knowing what NOT to do is just as important.
-    *   **Break it Down:** Large projects are terrifying. Break them into smaller, manageable tasks. I like to use a digital to-do list, but you could use index cards, a whiteboard, anything!
-    *   **Rough Timeline:** I'm not talking about rigid deadlines (ugh!). Instead, try to give a rough estimation of the time for each task. This helps maintain momentum.
+#### **1. One Mission at a Time (Because Multitasking is a Lie)**
+- Close the 27 tabs. Silence the phone. Pick *one* task at a time. Whether it’s designing, writing, problem-solving, or planning your next adventure, stay in the moment.
+- If another idea pops into your head (because of course it will), dump it in a “Later” list. Get back to work.
 
-*   **P - Preparation & Planning:**
-    *   **Gather Inspiration:** Mood boards, reference images, competitor analysis – collect your data. The key is to have it all in one place.
-    *   **Mind Map or Brain Dump:** Let your ideas flow! This is about getting everything out of your head. No judgment.
-    *   **Organize Your Tools:** Ensure your workspace (whether digital or physical) is set up. This reduces distractions and anxiety about finding your tools mid-flow.
+#### **2. Checkpoints Instead of Checklists**
+- Instead of endless to-do lists that feel like a slow death, use “Checkpoints.” Think: major progress markers instead of tiny steps.
+- Example: Instead of “Find reference images” → “Sketch first draft” → “Choose color scheme,” just set one Checkpoint: “Rough Draft Complete.” That’s it.
+- Once you hit a Checkpoint, do a quick self-check: Is the project still on track? Are you stuck? If so, *fix it now*, before the details pile up.
 
-*   **A - Action & Application:**
-    *   **Start With The Smallest Step:** Don't try to conquer the whole project at once. Focus on one tiny piece. This combats overwhelm.
-    *   **Batch Similar Tasks:** When you're in the right mindset, tackle several tasks of the same type (e.g., color palettes, icon creation, layout, etc.). This can help you stay in the zone.
-    *   **Time Blocking (Loosely):** I try to focus on one task within a block of time. This isn’t rigid like a neurotypical scheduler. It’s more about having a guideline. A pomodoro timer is my best friend for this!
+#### **3. External Reality Checks (Because Left Alone, You’ll Redesign the Whole Damn Thing)**
+- Have a *human* check in with you. Not a project management app. An actual person—colleague, friend, accountability buddy—who makes sure you haven’t abandoned ship.
+- This doesn’t have to be a formal meeting. A quick “Hey, still working on this?” can snap you out of a perfectionist spiral.
 
-*   **C - Checkpoints & Course Correction:**
-    *   **Regular Breaks:** Don't burn out. Step away from the design. Do something different. Come back with fresh eyes.
-    *   **Progress Review:** Is your design on track with your initial scope? Are you overcomplicating things? Be honest with yourself.
-    *   **Adapt and Adjust:** It’s okay if things change. Review your timeline, adjust the scope if necessary. Don't be afraid to pivot.
+### **Expanding Beyond Work: A Lifestyle System**
+ADHD and autism don’t clock out at 5 PM. The same strategies that keep design projects on track can apply to everything—managing your day, planning meals, staying on top of health, and even remembering to relax (because yes, that needs structure too).
 
-*   **E - Evaluate & Expand:**
-    *   **Final Review:** Is it complete? Does it meet the initial goal you set? Check over everything before signing off.
-    *   **Reflect & Learn:** What worked well? What didn’t? Take note of your process so you can refine it for next time.
-    *   **Share & Celebrate:** Once it’s done, be proud! Share your creation with the world! Or at least with your close friends and colleagues.
+#### **4. The Second Brain: Offload the Mental Clutter**
+- Your brain wasn’t built to store everything—it was built to think. Use Obsidian (or any note-taking system) as your **Second Brain.**
+- Create daily notes for thoughts, reminders, and ideas. Use tags to quickly find what you need. Offloading information keeps your mind clear for actual thinking, not just remembering.
 
-**Why This Framework Works (For Me):**
+#### **5. The Daily Journal: A Mental Reset Button**
+- Every morning or night, do a quick brain dump. What went well? What’s on your mind? What’s the top priority for tomorrow?
+- Use this time to reflect, course-correct, and refine your approach to work and life.
 
-This system isn't about rigid rules; it's about creating a structure that supports my unique way of working. It's about:
+This system works because it embraces how we function: chaotic, creative, but in need of guardrails to keep us from drifting into the abyss.
 
-*   **Reducing Overwhelm:** Breaking down projects into smaller chunks.
-*   **Harnessing Hyperfocus:** Grouping similar tasks to stay in the zone.
-*   **Managing Impulsivity:** Having a plan before diving in.
-*   **Embracing Flexibility:** Knowing that it's okay to change direction if needed.
+**Final Thought:**
+Deadlines aren’t the enemy. Over-planning is. The trick is finding the sweet spot between structure and flexibility—enough to keep you moving, but not so much that it sucks the fun out of creating. Try it. Tweak it. Make it your own. Just don’t get lost in the details.
 
-**Your Turn!**
-
-This is just what works for *me*, and everyone’s different! I encourage you to experiment and find the systems that best support your creative flow.
-
-Do you have any tips or frameworks that help you manage design projects as a neurodivergent creator?
+Because the best work isn’t the one that’s *almost* finished—it’s the one that actually sees the light of day.
 
