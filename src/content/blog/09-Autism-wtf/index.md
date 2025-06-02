@@ -29,6 +29,10 @@ It wasn’t one moment — more like a series of smaller ones:
 - Noticing that I processed things differently in social settings or at work — not worse, just different.
 - Realising how much mental energy I spent masking, planning, and managing sensory overload.
 
+But the real tipping point? Repeated arguments with my partner.
+
+I didn’t always understand her emotions, or why she reacted to things the way she did. And from her side, it probably felt like I was cold or distant — when really, I just didn’t know how to read the situation. I wanted to do better, to connect more deeply, and that’s when I started asking myself some hard questions.
+
 Eventually, I decided to dig deeper. What I thought would be a short detour turned into a complete reframing of how I saw myself.
 
 ---
