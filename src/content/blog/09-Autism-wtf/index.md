@@ -6,8 +6,6 @@ tags: [neurodiversity, autism, ADHD, mental health, personal]
 draft: false
 ---
 
-# Diagnosed at 34: Autism, Maybe ADHD, and Finally Making Sense of Things
-
 For most of my life, I thought I was just bad at “life stuff.”
 
 I struggled with routines, social interactions were often confusing, and I couldn’t understand why certain environments drained me so much faster than they seemed to affect others. I’d either hyper-focus for hours or get completely overwhelmed trying to start the simplest task. I chalked it up to personality quirks, burnout, or just being “not great” at adulting.
