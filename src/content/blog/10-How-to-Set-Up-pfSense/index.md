@@ -6,8 +6,6 @@ tags: [networking, pfsense, zyxel, unifi, VLAN, homelab, small-business]
 draft: false
 ---
 
-# How to Set Up pfSense with a Zyxel Switch and UniFi Access Point for VLAN Segmentation (Guest, IoT, Office)
-
 If you're serious about improving your network's security and performance, segmenting your devices into VLANs (Virtual LANs) is a critical step. In this guide, I will walk you through setting up VLANs using **pfSense** as your router/firewall, a **Zyxel managed switch**, and a **UniFi access point**. We'll create separate VLANs for **Guest**, **IoT**, and **Office** networks to keep your critical infrastructure isolated from less-trusted devices.
 
 ## Why Use VLANs?
